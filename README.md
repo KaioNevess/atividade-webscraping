@@ -1,10 +1,3 @@
-# atividade-webscraping
-**Tec. informática** 
-O projeto em questão tem como objetivo desenvolver um sistema de webscraping, uma técnica de coleta de dados na web, para extrair informações relevantes de diferentes fontes online. A implementação do webscraping permitirá a automação da coleta de dados, proporcionando uma abordagem eficiente e escalável para a obtenção de informações específicas da web.
-Desenvolvido na disciplina de introdução a algoritmos, por **Kaio Neves e Fábio Quintão**
-
-Está aqui o código desenvolvido:
-
 import requests
 from bs4 import BeautifulSoup
 
